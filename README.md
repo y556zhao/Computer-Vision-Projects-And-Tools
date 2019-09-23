@@ -3,6 +3,7 @@ Computer vision projects using OpenCV in C++ and Python
 
 Projects:\
     1. Traffic Light Detection\
+    ......
 
 Tools: \
     1. Cropping\
